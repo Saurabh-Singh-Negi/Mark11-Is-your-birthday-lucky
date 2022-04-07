@@ -36,7 +36,6 @@ input {
     width: 40%;
     margin: auto;
     padding: 0.8rem;
-    border: transparent;
     border-color: var(--dark-gray);
     border-radius: 0.3rem;
 }
