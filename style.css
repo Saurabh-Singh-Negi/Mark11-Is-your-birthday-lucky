@@ -18,7 +18,7 @@ body {
     background-color: var(--primary-color);
     display: flex;
     flex-direction: column;
-    width: 80vh;
+    width: 50vh;
     margin: auto;
 }
 
